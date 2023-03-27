@@ -666,7 +666,7 @@ ion-icon{
 
 .navbar-bottom-white,
 .navbar-bottom-white .social-icons ion-icon{
-  color: #fff;
+  color: #000;
 }
 
 
@@ -917,7 +917,7 @@ ion-icon{
 .navbar-white:not(.fixed) .email,
 .navbar-white:not(.fixed) a,
 .navbar-white:not(.fixed) a:hover{
-    color: #fff;
+    color: #000;
 }
 
 .navbar-white:not(.fixed) .navbar-nav-desctop li a{
@@ -938,8 +938,8 @@ ion-icon{
   color: #23a592;
 }
 
-.navbar-white:not(.fixed) .toggler-icon{
-  border-color: #fff;
+.navbar-white:not(.fixed) .toggler-icon {
+  border-color: #000;
 }
 
 
@@ -1097,7 +1097,9 @@ h1 + .line{
 /* 3.3 About */
 
 
-
+.experience-item {
+  color: #000;
+}
 .experience-info{
   position: absolute;
   left: 50%;
